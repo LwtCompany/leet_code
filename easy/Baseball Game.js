@@ -25,4 +25,6 @@ var calPoints = function(ops) {
 let opt = ["5","-2","4","C","D","9","+","+"]
 console.log(calPoints(opt))
 
-console.log("tuzumi from localy")
+
+console.log("tuzumi")
+
