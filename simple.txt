@@ -1,12 +1,7 @@
 hello 
 hunter
-world
-rtt
-ga
-gsae
-bir
-team2
-bu
-hello 
-hunter
-world
+this
+all
+changes
+from
+team1
