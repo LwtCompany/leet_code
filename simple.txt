@@ -4,3 +4,9 @@ world
 rtt
 ga
 gsae
+bir
+team2
+bu
+hello 
+hunter
+world
